@@ -1,4 +1,4 @@
-# QnA Maker
+# QnA Maker or summary of project
 
 Bot Framework v4 QnA Maker bot sample. This sample shows how to integrate Multiturn and Active learning in a QnA Maker bot with ASP.Net Core-2. Click [here][72] to know more about using follow-up prompts to create multiturn conversation. To know more about how to enable and use active learning, click [here][71].
 
@@ -148,3 +148,4 @@ If you are new to Microsoft Azure, please refer to [Getting started with Azure][
 
 [71]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/improve-knowledge-base
 [72]: https://docs.microsoft.com/en-us/azure/cognitive-services/qnamaker/how-to/multiturn-conversation
+Deployment Url : https://sites.google.com/mmit.edu.in/corona-omicron-chatbot/home
